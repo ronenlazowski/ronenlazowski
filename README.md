@@ -37,7 +37,8 @@
 ---
 
 #### 📫 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronenlazowski)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronenlazowski)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357038796532875406)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-1E90FF?style=for-the-badge)](https://www.ronenlaz.com)
+[![Website](https://img.shields.io/badge/Website-3366CC?style=for-the-badge&logo=htmx&logoColor=white)](https://www.ronenlaz.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/ronenlazowski)
 
