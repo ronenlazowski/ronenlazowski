@@ -25,7 +25,6 @@
 
 #### 🏆 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronenlazowski&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
