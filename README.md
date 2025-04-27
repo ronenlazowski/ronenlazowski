@@ -29,10 +29,10 @@
 ---
 
 #### 📌 Featured Projects
-- 🤖 **[Custom Discord Bot](https://github.com/ronenlazowski/paul)** – A feature-rich Discord bot with advanced AutoMod and automation tools.
-- 🌐 **[My Personal Website](https://github.com/ronenlazowski/website)** – A sleek and responsive website showcasing my projects and skills.
-- 🧠 **[AI Concept Project](https://github.com/ronenlazowski/ai-concept)** – Exploring AI-driven automation and machine learning models.
-
+- 🤖 **[Custom Discord Bot](https://github.com/ronenlazowski/paul)** — A feature-rich Discord bot with advanced AutoMod and automation tools.
+- 🌐 **[My Personal Website](https://github.com/ronenlazowski/website)** — A sleek and responsive website showcasing my projects and skills.
+- 🧠 **[AI Concept Project](https://github.com/ronenlazowski/ai-concept)** — Exploring AI-driven automation and machine learning models.
+- ⛅ **[ESP32 Weather Dashboard](https://github.com/ronenlazowski/weatherdash)** — A real-time weather dashboard built on the ESP32, showcasing live data with an interactive interface.
 ---
 
 #### 📫 Let's Connect
