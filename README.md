@@ -23,7 +23,7 @@
 
 ---
 
-#### 🏆 GitHub Stats
+#### 🏆 Statuses and Statistics
 [![Discord Presence](https://lanyard.cnrad.dev/api/445899149997768735)](https://discord.com/users/445899149997768735)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=dark&hide_border=true)
 ---
