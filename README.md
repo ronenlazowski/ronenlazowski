@@ -3,8 +3,8 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+automation+tools+and+Discord+bots;Cloud+infrastructure+and+networking+enthusiast;Self-hosting+and+open-source+advocate;Always+learning%2C+always+coding)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Discord+Bot+Specialist;Home+Lab+Enthusiast;Python+%26+Automation+Expert)](https://git.io/typing-svg) 
+
 </div>
 
 ## 🚀 What I Do
@@ -13,9 +13,9 @@
 class Developer:
     def __init__(self):
         self.name = "Ronen Lazowski"
-        self.passions = ["Automation", "Discord Bots", "Cloud Infrastructure"]
-        self.current_focus = "Building scalable automation solutions"
-        self.learning = ["Advanced AI/ML", "Kubernetes", "Rust"]
+        self.passions = ["Automation", "Python", "Cloud Infrastructure"]
+        self.current_focus = ["Discord Bot Development", "Home Lab Automation"]
+        self.learning = ["Advanced Web Development"]
     
     def get_skills(self):
         return {
@@ -50,10 +50,7 @@ class Developer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronenlazowski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ronenlazowski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/445899149997768735)](https://discord.com/users/445899149997768735)
 
@@ -75,9 +72,9 @@ class Developer:
 ## 🌟 Current Focus
 
 - 🔧 **Building**: Next-gen Discord automation tools
-- 📚 **Learning**: Advanced Kubernetes orchestration
+- 📚 **Learning**: Advanced web development
 - 🏠 **Improving**: Home lab infrastructure and monitoring
-- 🤝 **Contributing**: Open-source automation projects
+- 🤝 **Contributing**: Open-source projects
 ## � Let's Connect!
 
 <div align="center">
