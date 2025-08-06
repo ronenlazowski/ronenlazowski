@@ -80,25 +80,25 @@ I'm passionate about **building automation tools** and creating efficient soluti
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/2c0b89ab-d432-4c5a-bb06-7c7e8efb4555" width="40"/>
+        🤖
         <br/>
         <strong>Building</strong><br/>
         Next-gen Discord automation tools
       </td>
       <td align="center">
-        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3ece664927" width="40"/>
+        🏠
         <br/>
         <strong>Expanding</strong><br/>
         Home lab infrastructure
       </td>
       <td align="center">
-        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/de8302e5-c9f9-4e68-8420-7cd367a5a825" width="40"/>
+        📚
         <br/>
         <strong>Learning</strong><br/>
         Advanced web development
       </td>
       <td align="center">
-        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="40"/>
+        🤝
         <br/>
         <strong>Contributing</strong><br/>
         Open-source projects
