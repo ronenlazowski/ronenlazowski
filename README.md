@@ -52,8 +52,8 @@ class Developer:
 
 <table>
 <tr>
-<td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/></td>
-<td><img height="180em" src="https://lanyard.cnrad.dev/api/445899149997768735"/></td>
+<td><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/></td>
+<td><img height="120em" src="https://lanyard.cnrad.dev/api/445899149997768735"/></td>
 </tr>
 </table>
 
