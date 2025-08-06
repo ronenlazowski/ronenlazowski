@@ -37,14 +37,6 @@ interests: [Python, Automation, Self-hosting, Open Source]
 
 </div>
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Paul Discord Bot**](https://github.com/ronenlazowski/paul) | Advanced AutoMod and automation bot | `Python` `Discord.py` |
-| [**Personal Portfolio**](https://github.com/ronenlazowski/website) | Modern responsive website | `HTML` `CSS` `JavaScript` |
-| [**AI Concept Lab**](https://github.com/ronenlazowski/ai-concept) | AI automation experiments | `Python` `TensorFlow` |
-| [**ESP32 Weather Hub**](https://github.com/ronenlazowski/weatherdash) | Real-time weather dashboard | `C++` `ESP32` |
 
 ## 📈 Current Focus
 
