@@ -22,24 +22,43 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-I'm passionate about **building automation tools** and creating efficient solutions. Currently focused on Discord bot development and home lab infrastructure while expanding my web development skills.
-
-<div align="left">
-  
-  ```python
-  class Developer:
-      def __init__(self):
-          self.role = "Full-Stack Developer & Software Engineer"
-          self.specializations = ["Discord Bots", "Home Automation", "Cloud Infrastructure"]
-          self.currently_learning = "Advanced Web Development"
-          self.interests = ["Python", "Automation", "Self-hosting", "Open Source"]
-  ```
-  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>💫 Who I Am</h3>
+        <p>I'm passionate about <strong>building automation tools</strong> and creating efficient solutions. Currently focused on Discord bot development and home lab infrastructure while expanding my web development skills.</p>
+        
+        <h3>🚀 What Drives Me</h3>
+        <ul align="left">
+          <li>🤖 Creating intelligent automation systems</li>
+          <li>🏠 Building scalable home lab solutions</li>
+          <li>🌐 Developing modern web applications</li>
+          <li>🔧 Contributing to open-source projects</li>
+        </ul>
+      </td>
+      <td width="50%">
+        ```python
+        class Developer:
+            def __init__(self):
+                self.role = "Full-Stack Developer & Software Engineer"
+                self.specializations = [
+                    "Discord Bots", 
+                    "Home Automation", 
+                    "Cloud Infrastructure"
+                ]
+                self.currently_learning = "Advanced Web Development"
+                self.interests = [
+                    "Python", 
+                    "Automation", 
+                    "Self-hosting", 
+                    "Open Source"
+                ]
+        ```
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br clear="right"/>
 
 ## � Tech Arsenal
 
@@ -78,34 +97,42 @@ I'm passionate about **building automation tools** and creating efficient soluti
   </table>
 </div>
 
-## 💡 What I'm Up To
+## 💡 Current Focus
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        🤖
-        <br/>
-        <strong>Building</strong><br/>
-        Next-gen Discord automation tools
+      <td align="center" width="25%">
+        <div>
+          <h3>🤖</h3>
+          <h4>Building</h4>
+          <p><strong>Next-gen Discord Bots</strong><br/>
+          Advanced automation and moderation tools with custom features</p>
+        </div>
       </td>
-      <td align="center">
-        🏠
-        <br/>
-        <strong>Expanding</strong><br/>
-        Home lab infrastructure
+      <td align="center" width="25%">
+        <div>
+          <h3>🏠</h3>
+          <h4>Expanding</h4>
+          <p><strong>Home Lab Infrastructure</strong><br/>
+          Self-hosted services and monitoring solutions</p>
+        </div>
       </td>
-      <td align="center">
-        📚
-        <br/>
-        <strong>Learning</strong><br/>
-        Advanced web development
+      <td align="center" width="25%">
+        <div>
+          <h3>📚</h3>
+          <h4>Learning</h4>
+          <p><strong>Advanced Web Development</strong><br/>
+          Modern frameworks and best practices</p>
+        </div>
       </td>
-      <td align="center">
-        🤝
-        <br/>
-        <strong>Contributing</strong><br/>
-        Open-source projects
+      <td align="center" width="25%">
+        <div>
+          <h3>🤝</h3>
+          <h4>Contributing</h4>
+          <p><strong>Open Source Projects</strong><br/>
+          Giving back to the developer community</p>
+        </div>
       </td>
     </tr>
   </table>
@@ -113,11 +140,7 @@ I'm passionate about **building automation tools** and creating efficient soluti
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
-  
-  <br/>
-  
+
   **_"Code is poetry written in logic"_** ✨
   
   <br/>
