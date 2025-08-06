@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20there,%20I'm%20Ronen&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+
+# 👋 Hi there, I'm Ronen
+
+### Full-Stack Developer & Automation Enthusiast
+
 </div>
 
 <div align="center">
