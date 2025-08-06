@@ -46,18 +46,6 @@ class Developer:
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/445899149997768735)](https://discord.com/users/445899149997768735)
-
-</div>
-
 ## 🎯 Featured Projects
 
 <div align="center">
