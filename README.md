@@ -50,10 +50,9 @@ class Developer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronenlazowski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ronenlazowski&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronenlazowski&theme=tokyonight&hide_border=true&layout=compact" height="180em" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/445899149997768735)](https://discord.com/users/445899149997768735)
 
