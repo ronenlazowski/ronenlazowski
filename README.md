@@ -11,37 +11,16 @@
 
 <div align="center">
 
-## ⚡ **TECH ARSENAL** ⚡
-
-<img src="https://skillicons.dev/icons?i=python,js,docker,linux,git,vscode&perline=6" />
-
-</div>
-
-<br/>
+## Frameworks and Technology
 
 <div align="center">
 
-## 🔥 **CURRENT BUILDS** 🔥
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/robot.png" width="60" alt="🤖"/><br/>
-      <b>Discord Automation</b><br/>
-      <sub>Advanced moderation & utility bots</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/server.png" width="60" alt="🏠"/><br/>
-      <b>Home Lab Empire</b><br/>
-      <sub>Self-hosted services & monitoring</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/web.png" width="60" alt="�"/><br/>
-      <b>Web Development</b><br/>
-      <sub>Full-stack applications & APIs</sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
@@ -49,7 +28,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 
-**_"Code is poetry written in logic"_ ✨**
+_"Code is poetry written in logic"_ ✨
 
 </div>
 
