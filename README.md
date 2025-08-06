@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Discord+Bot+Specialist;Home+Lab+Enthusiast;Python+%26+Automation+Expert)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Home+Lab+Enthusiast;Python+%26+Automation+Expert)](https://git.io/typing-svg) 
 
 </div>
 
@@ -50,8 +50,12 @@ class Developer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://lanyard.cnrad.dev/api/445899149997768735"/>
+<table>
+<tr>
+<td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/></td>
+<td><img height="180em" src="https://lanyard.cnrad.dev/api/445899149997768735"/></td>
+</tr>
+</table>
 
 </div>
 
