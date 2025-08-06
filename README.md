@@ -1,57 +1,123 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20there,%20I'm%20Ronen&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
-# Hi there, I'm Ronen 👋
+<div align="center">
+  <a href="https://www.ronenlaz.com">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-4A90E2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/ronenlazowski">
+    <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/1357038796532875406">
+    <img src="https://img.shields.io/badge/Discord-Let's%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
+  </a>
+</div>
 
-### Full-Stack Developer & Automation Enthusiast
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ronenlaz.com-blue?style=flat-square&logo=google-chrome)](https://www.ronenlaz.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ronenlazowski-black?style=flat-square&logo=github)](https://github.com/ronenlazowski)
-[![Discord](https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1357038796532875406)
+## 🎯 About Me
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+I'm passionate about **building automation tools** and creating efficient solutions. Currently focused on Discord bot development and home lab infrastructure while expanding my web development skills.
+
+<div align="left">
+  
+  ```python
+  class Developer:
+      def __init__(self):
+          self.role = "Full-Stack Developer & Software Engineer"
+          self.specializations = ["Discord Bots", "Home Automation", "Cloud Infrastructure"]
+          self.currently_learning = "Advanced Web Development"
+          self.interests = ["Python", "Automation", "Self-hosting", "Open Source"]
+  ```
+  
+</div>
+
+<br clear="right"/>
+
+## � Tech Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="50"/>
+        <br/>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="50"/>
+        <br/>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="50"/>
+        <br/>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="50"/>
+        <br/>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+        <br/>Docker
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+        <br/>Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="50"/>
+        <br/>Git
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💡 What I'm Up To
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/2c0b89ab-d432-4c5a-bb06-7c7e8efb4555" width="40"/>
+        <br/>
+        <strong>Building</strong><br/>
+        Next-gen Discord automation tools
+      </td>
+      <td align="center">
+        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3ece664927" width="40"/>
+        <br/>
+        <strong>Expanding</strong><br/>
+        Home lab infrastructure
+      </td>
+      <td align="center">
+        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/de8302e5-c9f9-4e68-8420-7cd367a5a825" width="40"/>
+        <br/>
+        <strong>Learning</strong><br/>
+        Advanced web development
+      </td>
+      <td align="center">
+        <img src="https://github.com/ronenlazowski/ronenlazowski/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="40"/>
+        <br/>
+        <strong>Contributing</strong><br/>
+        Open-source projects
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## � About Me
-
-I'm passionate about building automation tools and creating efficient solutions. Currently focused on Discord bot development and home lab infrastructure while expanding my web development skills.
-
-```yaml
-current_role: Full-Stack Developer & Software Engineer
-specializations: [Discord Bots, Home Automation, Cloud Infrastructure]
-learning: Advanced Web Development
-interests: [Python, Automation, Self-hosting, Open Source]
-```
-
-## 🛠 Tech Stack
-
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-
-## 📈 Current Focus
-
-- 🤖 Building next-generation Discord automation tools
-- 🏠 Expanding home lab infrastructure and monitoring
-- 🌐 Learning advanced web development techniques
-- 🤝 Contributing to open-source projects
-
----
-
-<div align="center">
-
-_"Code is poetry written in logic"_ ✨
-
-**Open to collaborations and interesting projects!**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+  
+  <br/>
+  
+  **_"Code is poetry written in logic"_** ✨
+  
+  <br/>
+  
+  **💫 Open to collaborations and interesting projects! 💫**
 </div>
 
