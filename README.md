@@ -51,8 +51,7 @@ class Developer:
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronenlazowski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/445899149997768735)](https://discord.com/users/445899149997768735)
+<img height="180em" src="https://lanyard.cnrad.dev/api/445899149997768735"/>
 
 </div>
 
@@ -82,7 +81,6 @@ class Developer:
 [![Website](https://img.shields.io/badge/🌐_Portfolio-ronenlaz.com-3B82F6?style=for-the-badge)](https://www.ronenlaz.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ronenlazowski-181717?style=for-the-badge&logo=github)](https://github.com/ronenlazowski)
 [![Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357038796532875406)
-[![Coffee](https://img.shields.io/badge/☕_Buy_me_coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/ronenlazowski)
 
 **💡 Open to collaborations, interesting projects, and tech discussions!**
 
@@ -90,9 +88,7 @@ class Developer:
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronenlazowski&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
+<div align="center">  
   *"Code is poetry written in logic"* ✨
 </div>
 
