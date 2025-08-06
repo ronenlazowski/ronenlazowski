@@ -23,11 +23,13 @@
 
 ## 🔥 Current Projects
 
-```
-🤖 Discord Automation   → Advanced moderation & utility bots
-🏠 Home Labbing         → Self-hosted services & monitoring  
-🌐 Web Development      → Full-stack applications & APIs
-```
+<div align="center">
+
+| 🤖 **Discord Automation** | 🏠 **Home Lab** | 🌐 **Web Development** |
+|:-------------------------:|:---------------:|:----------------------:|
+| Advanced moderation & utility bots | Self-hosted services & monitoring | Full-stack applications & APIs |
+
+</div>
 
 <div align="center">
 
