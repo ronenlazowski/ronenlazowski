@@ -4,8 +4,7 @@
 
 ### 🚀 Full-Stack Developer & Homelab Enthusiast 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.ronenlaz.com)
-[![Discord](https://img.shields.io/badge/Discord-4ECDC4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1357038796532875406)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11JCO4S)
 
 </div>
 
