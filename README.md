@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML-0078D4?style=for-the-badge&logo=html5&logoColor=white)
 
 
-_"Code is poetry written in logic"_ ✨
+_"Code is poetry written in logic"_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" />
 </div>
